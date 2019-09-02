@@ -4,10 +4,10 @@ Latar belakang pendidikan saya SMK jurusan multimedia, karna multimedia luas sek
 
 [//]: # (Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
 ## Motivasi
-    ingin bekerja dengan hal yang saya sukai, sukses dibidang yang saya sukai, orang tua bahagia, saya bahagia
+ingin bekerja dengan hal yang saya sukai, sukses dibidang yang saya sukai, orang tua bahagia, saya bahagia
 
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Ekspektasi
-    ingin bekerja dengan gaji besar, dan tentu saja supaya menambah ilmu dan wawasan lebih luas.. 
+ingin bekerja dengan gaji besar, dan tentu saja supaya menambah ilmu dan wawasan lebih luas.. 
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
